@@ -4,7 +4,7 @@ let pp = gataImg.getRandom()
 const cat = `*𝙄𝙂*
 *https://www.instagram.com/ceogeripium.dzn*
 
-𝙄𝙂
+*_WHATSAPP_*
 *${asistencia}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
