@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
 global.owner = [
 ["51955095498", 'Richetti', true], //Richetti
-["51933348947"], 
+["51966254634"], 
 ["56945086055"], 
 ["56945086055"], 
 ["56945086055"],
@@ -103,47 +103,47 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56945086055", 'CortanaBot', 1], 
+["56945086055", 'CortanaBot', 1],  
+["56945086055", 'CortanaBot', 1],
+["56945086055", 'CortanaBot', 1],
+["56945086055", 'CortanaBot', 1]]
 
 global.mail = '' //agrega tú correo
-global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
-global.desc2 = 'MichiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.desc = 'CortanaBot el mejor bot de whatsapp' //agrega una descripción corta
+global.desc2 = 'CortanaBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MichiBot"
-global.author = "MichiBot"
+global.packname = "CortanaBot"
+global.author = "CortanaBot"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "MichiBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.gt = "CortanaBot"
+global.yt = "https://www.youtube.com/@RussellxzZing507andCrownsavage"
+global.yt2 = "https://www.youtube.com/@RussellxzZing507andCrownsavage"
+global.ig = "https://www.tiktok.com/@russellpaypal"
+global.md = "https://www.tiktok.com/@russellpaypal"
+global.fb = "https://www.tiktok.com/@russellpaypal"
 
-global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Help
-global.nn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
+global.nna = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //UPDATE
+global.nna2 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Help
+global.nn = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/KIF6hzJrkTL4toi20r6RQx' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/19293719827' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -177,8 +177,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "CortanaBot"
+global.igfg = "CortanaBot"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
